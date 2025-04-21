@@ -131,6 +131,17 @@ context = "\n".join(doc.page_content for doc in results)
 Then Gemini generates a new recipe using the retrieved results.
 
 ---
+## 📸 Screenshots 
+
+![Alt text](images/Screenshot%20(126).png) 
+
+![Alt text](images/Screenshot%20(127).png) 
+
+---
+## 📸 Flowchart
+![Alt text](images/flowchart.png) 
+
+
 
 ## 🌟 Advantages
 
